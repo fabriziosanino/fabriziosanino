@@ -15,8 +15,8 @@
 </div>
 
 
-- ⚡ Student at Politecnico di Torino, Master's Degree in Computer Engineering
-- 🌱 Bachelor's degree in Computuer Science at Università degli Studi di Torino
+- ⚡ Master's Degree in Computer Engineering @ Politecnico di Torino
+- 🌱 Bachelor's degree in Computuer Science @ Università degli Studi di Torino
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziosanino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
