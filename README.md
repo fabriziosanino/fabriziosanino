@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=fabriziosanino&style=flat-square&color=blue" alt=""/>
 </div>
 
-
+- 💼 Cloud Governance Architect @ Ferrero S.p.A.
 - ⚡ Master's Degree in Computer Engineering @ Politecnico di Torino
 - 🌱 Bachelor's degree in Computuer Science @ Università degli Studi di Torino
 
