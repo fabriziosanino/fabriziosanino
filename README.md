@@ -18,6 +18,6 @@
 - ⚡ Master's Degree in Computer Engineering @ Politecnico di Torino
 - 🌱 Bachelor's degree in Computuer Science @ Università degli Studi di Torino
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziosanino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api?username=fabriziosanino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
