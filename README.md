@@ -5,7 +5,7 @@
 # 👋 Ciao, I'm Fabrizio!
 
 <a href="https://github.com/fabriziosanino">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Cloud+Governance+Architect+%E2%98%81%EF%B8%8F;I+turn+cloud+chaos+into+guardrails+%F0%9F%9B%A1%EF%B8%8F;Terraform+%7C+Azure+%7C+AWS;Powered+by+espresso+and+Infrastructure+as+Code+%E2%98%95" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Cloud+Governance+Architect+%E2%98%81%EF%B8%8F;I+turn+cloud+chaos+into+guardrails+%F0%9F%9B%A1%EF%B8%8F;Terraform+%7C+Azure+%7C+AWS;Powered+by+gin-tonix+and+Infrastructure+as+Code+%E2%98%95" alt="Typing SVG"/>
 </a>
 
 <a href="https://www.linkedin.com/in/fabrizio-sanino-334307143/">
